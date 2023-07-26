@@ -1,16 +1,2 @@
-# sqflite_operations
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SQF_Lite](https://github.com/Bishozit/SQFLITE_Using_Local_Database/assets/110930138/a6e77241-b6c7-4078-b0d7-0448f7dc71bf)
+![SQF_Lite_2](https://github.com/Bishozit/SQFLITE_Using_Local_Database/assets/110930138/52103de4-9a5c-4094-8d99-14a4ec5e5c44)
